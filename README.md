@@ -20,6 +20,11 @@
 > 6.具有自动扫描文件夹的音乐列表，支持拖动添加歌曲，歌词文件(mpc,lrc均支持)
 > 7.支持歌单列表控制
 
+部分演示效果展示：
+![q](https://user-images.githubusercontent.com/77653114/151657371-8ca3b4c9-1bbf-45ce-8e7a-ba33816cfe10.png)
+![2](https://user-images.githubusercontent.com/77653114/151657372-d0d5ed4e-a75d-4ab4-a9ce-fcebcbc7e401.png)
+![3](https://user-images.githubusercontent.com/77653114/151657373-02a8cf70-f6d6-4d4b-a596-53f7ae838ece.png)
+
 如果本项目帮到了您，欢迎支持！
 
 ![支付宝收款](https://user-images.githubusercontent.com/77653114/151657322-9641a230-dd0b-42c8-bffb-4327fe4bda07.png)
