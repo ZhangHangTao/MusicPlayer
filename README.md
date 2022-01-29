@@ -22,3 +22,4 @@
 
 如果本项目帮到了您，欢迎支持！
 
+![支付宝收款](https://user-images.githubusercontent.com/77653114/151657322-9641a230-dd0b-42c8-bffb-4327fe4bda07.png)
