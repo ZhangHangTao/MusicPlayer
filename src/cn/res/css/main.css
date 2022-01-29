@@ -1,0 +1,23 @@
+
+.hoverNode:hover {
+    -fx-effect: dropshadow(three-pass-box, #cccccc, 20.0, 0.6, 0, 0);
+    -fx-background-radius: 2.0em;
+    -fx-cursor: hand;
+}
+.button:hover {
+    -fx-cursor: hand;
+}
+.list-cell:selected {
+    -fx-background-color: #acacb4;
+}
+.shadowLabel{
+    -fx-background-radius: 2.0em;
+    -fx-effect: dropshadow(three-pass-box, rgb(0,0,0), 5.0,0.6, 0, 0);
+}
+.scroll-pane{
+    -fx-background-color:transparent;
+}
+
+.scroll-pane .viewport {
+    -fx-background-color: transparent;
+}
